@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UI/UX Internship Email</title>
+</head>
+<body style="margin:0; padding:0; background:#f4f4f4; font-family:Arial, Helvetica, sans-serif;">
+
+    <table width="100%" cellpadding="0" cellspacing="0" bgcolor="#f4f4f4">
+        <tr>
+            <td align="center">
+
+                <!-- Main Container -->
+                <table width="600" cellpadding="0" cellspacing="0" style="background:#ffffff; margin:30px 0; border-radius:8px; overflow:hidden;">
+
+                    <!-- Header -->
+                    <tr>
+                        <td style="background:#4F46E5; color:white; text-align:center; padding:30px;">
+                            <h1 style="margin:0;">Welcome!</h1>
+                            <p style="margin-top:10px;">UI/UX Internship Program</p>
+                        </td>
+                    </tr>
+
+                    <!-- Hero Section -->
+                    <tr>
+                        <td style="padding:30px; text-align:center;">
+                            <h2 style="color:#333;">Hello, Candidate!</h2>
+
+                            <p style="font-size:16px; color:#555; line-height:1.6;">
+                                Congratulations on being selected for our UI/UX Internship.
+                                We are excited to have you join our creative team and begin
+                                your design journey with us.
+                            </p>
+
+                            <a href="#"
+                               style="display:inline-block;
+                               background:#4F46E5;
+                               color:white;
+                               text-decoration:none;
+                               padding:14px 30px;
+                               border-radius:5px;
+                               margin-top:20px;
+                               font-weight:bold;">
+                               View Internship Details
+                            </a>
+
+                        </td>
+                    </tr>
+
+                    <!-- Features -->
+                    <tr>
+                        <td style="padding:20px 40px;">
+                            <table width="100%">
+                                <tr>
+
+                                    <td align="center" width="33%">
+                                        <h3>🎨</h3>
+                                        <h4>Design</h4>
+                                        <p style="font-size:14px; color:#666;">
+                                            Learn modern UI principles.
+                                        </p>
+                                    </td>
+
+                                    <td align="center" width="33%">
+                                        <h3>📱</h3>
+                                        <h4>Prototype</h4>
+                                        <p style="font-size:14px; color:#666;">
+                                            Build interactive designs.
+                                        </p>
+                                    </td>
+
+                                    <td align="center" width="33%">
+                                        <h3>🚀</h3>
+                                        <h4>Grow</h4>
+                                        <p style="font-size:14px; color:#666;">
+                                            Enhance your UX skills.
+                                        </p>
+                                    </td>
+
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+
+                    <!-- Footer -->
+                    <tr>
+                        <td style="background:#eeeeee; text-align:center; padding:20px; color:#666; font-size:14px;">
+                            © 2026 Your Company Name
+                            <br><br>
+                            Email: info@yourcompany.com
+                            <br>
+                            Website: www.yourcompany.com
+                        </td>
+                    </tr>
+
+                </table>
+
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
