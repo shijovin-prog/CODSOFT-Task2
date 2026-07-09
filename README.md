@@ -1,5 +1,5 @@
 Name:Shijo,
-Compant:Codsoft,
+Company:Codsoft,
 ID:BY26RY207298,
 Domain:UI/UX design
 Duration:June to July 2026
